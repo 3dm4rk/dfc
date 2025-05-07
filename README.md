@@ -18,9 +18,4 @@ A Python application that monitors specific running processes and displays styli
 - 🎨 Customizable notification appearance (colors, timing, etc.)
 - ✔️ Input validation and error handling
 
-## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/app-termination-monitor.git
-   cd app-termination-monitor
